@@ -3,7 +3,7 @@ Sub ticker_checker()
 Dim ws As Worksheet
 Dim startingws As Worksheet
 Sheets(1).Select
-Set starting_ws = ActiveSheet
+Set startingws = ActiveSheet
 
 For Each ws In Sheets
 
