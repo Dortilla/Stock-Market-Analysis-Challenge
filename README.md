@@ -14,12 +14,12 @@
 ## Results:
 
 # 2018 Results:
-![alt text](https://github.com/Dortilla/Stock-Market-Analysis-Challenge/blob/main/2018%20Screenshot.png "2018 Results")
+![alt text](Stock-Market-Analysis-Challenge/2018_Screenshot.png "2018 Results")
 
 
 # 2019 Results:
-![alt text](https://github.com/Dortilla/Stock-Market-Analysis-Challenge/blob/main/2019%20Screenshot.png "2019 Results")
+![alt text](Stock-Market-Analysis-Challenge/2019_Screenshot.png "2019 Results")
 
 
 # 2020 Results: 
-![alt text](https://github.com/Dortilla/Stock-Market-Analysis-Challenge/blob/main/2020%20Screenshot.png "2020 results")
+![alt text](Stock-Market-Analysis-Challenge/2020_Screenshot.png "2020 results")
